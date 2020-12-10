@@ -1,6 +1,6 @@
 # Throughout the code, there may be some comments to help you. 
 # They explain a piece of code or direct you to a link.
-# Scroll to bottom to see the explanations.
+# Scroll to the bottom to see the explanations.
 
 with open("scores.txt") as f: # 0 with open()
 	lines = [line.split() for line in f]
